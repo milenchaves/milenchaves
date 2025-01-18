@@ -13,7 +13,7 @@ Sou estudante de **Sistemas de Informação** na Universidade Federal do Ceará 
 
 ---
 
-### Entre em contato:
+### Entre em Contato:
 
 <a href="https://www.linkedin.com/in/milenchaves/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15"></a>
 <a href="mailto:milenchaves1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=15"></a>
