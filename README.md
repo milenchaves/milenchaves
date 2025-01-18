@@ -9,7 +9,7 @@ Sou estudante de **Sistemas de Informação** na Universidade Federal do Ceará 
 
 ### Linguagens e Tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,html,py,fastapi,laravel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,py,fastapi,laravel)](https://skillicons.dev)
 
 ---
 
