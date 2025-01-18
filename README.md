@@ -2,7 +2,7 @@
 
 ---
 
-### Sobre Mim 
+### Sobre mim:
 Sou estudante de **Sistemas de Informação** na Universidade Federal do Ceará e atualmente estou dedicada a aprimorar minhas habilidades como desenvolvedora.
 
 ---
@@ -13,7 +13,7 @@ Sou estudante de **Sistemas de Informação** na Universidade Federal do Ceará 
 
 ---
 
-### Entre em Contato:
+### Entre em contato:
 
 <a href="https://www.linkedin.com/in/milenchaves/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15"></a>
 <a href="mailto:milenchaves1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=15"></a>
