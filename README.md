@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, sou Milena Chaves 👩🏼‍💻
 
-<!--
-**milenchaves/milenchaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Sobre Mim 
+Sou estudante de **Sistemas de Informação** na Universidade Federal do Ceará e atualmente estou dedicada a aprimorar minhas habilidades como desenvolvedora.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Linguagens e Tecnologias:
+
+[![My Skills](https://skillicons.dev/icons?i=js,css,html,py,fastapi,laravel&theme=light)](https://skillicons.dev)
+
+---
+
+### Entre em contato:
+
+<a href="https://www.linkedin.com/in/milenchaves/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15"></a>
+<a href="mailto:milenchaves1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=15"></a>
